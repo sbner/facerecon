@@ -1,0 +1,12 @@
+.Tilt {
+	background: linear-gradient(to right, rgb(54, 131, 145), rgb(255, 0, 238));
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#logoDiv {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
